@@ -318,7 +318,8 @@ const questions = [
               
                 ]}{
 
-                  question: 'what sport did I dfo first?',
+                  question: 'what sport did I do first?',
+          
                 
                   answers [
                 
