@@ -138,13 +138,13 @@ const questions = [
 
   {
 
-    question: 'What is 2 + 2?',
+    question: 'Whos my fav teacher?',
 
     answers: [
 
-      { text: '5', correct: true },
+      { text: 'Miss Lynch', correct: false },
 
-      { text: '4', correct: false }
+      { text: 'Mr Kirsop', correct: true }
 
     ]
 
@@ -152,17 +152,17 @@ const questions = [
 
   {
 
-    question: 'Which of the following is a renewable resource?',
+    question: 'where have I been?',
 
     answers: [
 
-      { text: 'Coal', correct: false },
+      { text: 'Finland', correct: false },
 
-      { text: 'Oil', correct: true },
+      { text: 'New Zeland', correct: false },
 
-      { text: 'Solar Energy', correct: false },
+      { text: 'Amsterdam', correct: true },
 
-      { text: 'Natural Gas', correct: false }
+      { text: 'Somewhere in the U.S', correct: true }
 
     ]
 
@@ -170,15 +170,15 @@ const questions = [
 
   {
 
-    question: 'Who sang the song Shake it Off?',
+    question: 'who WAS my favroiut band/singer?',
 
     answers: [
+
+      { text: 'WeThree', correct: false },
 
       { text: 'Taylor Swift', correct: false },
 
-      { text: 'Donald Trump', correct: true },
-
-      { text: 'Olivia Rodrigo', correct: false },
+      { text: 'Lovejoy', correct: true },
 
       { text: 'Pink', correct: false }
 
@@ -188,20 +188,147 @@ const questions = [
 
   {
 
-    question: 'Consider an economy that is currently in a recessionary gap. Which of the following policy measures is most likely to increase aggregate demand and close the gap?',
+    question: 'How old was I when I had my first surgery?',
 
     answers: [
 
-      { text: 'Decreasing government spending', correct: false },
+      { text: '2', correct: false },
 
-      { text: 'Increasing taxes', correct: false },
+      { text: '10', correct: false },
 
-      { text : 'Increasing government spending', correct: false},
+      { text : '5', correct: true},
 
-      { text : ' None of the above, as recessionary gaps close automatically over time', correct: false }
+      { text : 'New Born', correct: false }
 
     ]
 
-  }
+},]
+{
 
-]
+  question: 'what is my biggest fear?',
+
+  answers [
+
+    { text: 'hights', correct: false },
+
+    { text: 'spiders', correct: false },
+
+    { text : 'being forgoten', correct: true},
+
+    { text : 'deep bodies of water', correct: false }
+
+  ]}
+  {
+
+    question: 'what is my biggest fear?',
+  
+    answers [
+  
+      { text: 'hights', correct: false },
+  
+      { text: 'spiders', correct: false },
+  
+      { text : 'being forgoten', correct: true},
+  
+      { text : 'deep bodies of water', correct: false }
+  
+    ]}{
+
+      question: 'who has been my friend the longest',
+    
+      answers [
+    
+        { text: 'Paige', correct: false },
+    
+        { text: 'Hannah', correct: true },
+    
+        { text : 'Ace', correct: false},
+    
+        { text : 'Amber', correct: false }
+    
+      ]}{
+
+        question: 'what pisses me off the most?',
+      
+        answers [
+      
+          { text: 'people calling me toxic', correct: true },
+      
+          { text: 'Liers', correct: true },
+      
+          { text : 'people fighting over stupid things', correct: true},
+      
+          { text : 'all of the above', correct: true }
+      
+        ]}{
+
+          question: 'how old was I when i found out santa and that wernt real?',
+        
+          answers [
+        
+            { text: 'year 7', correct: false },
+        
+            { text: 'year 5', correct: false },
+        
+            { text : 'year 2', correct: false},
+        
+            { text : 'year 4', correct: true }
+        
+          ]}{
+
+            question: 'how did i Figure out santa and thar wernt real?',
+          
+            answers [
+          
+              { text: 'I just figured it out', correct: false },
+          
+              { text: 'my friends told me', correct: true },
+          
+              { text : 'Wait there not real?', correct: false},
+          
+              { text : 'Eh IDK', correct: false }
+          
+            ]}{
+
+              question: ' what am I ',
+            
+              answers [
+            
+                { text: 'eshay', correct: false },
+            
+                { text: '???', correct: false },
+            
+                { text : ' unicorn', correct: false},
+            
+                { text : 'GAY', correct: true }
+            
+              ]}{
+
+                question: 'what meds do I take?',
+              
+                answers [
+              
+                  { text: 'zoloft', correct: false },
+              
+                  { text: 'anti depressents', correct: true },
+              
+                  { text : 'Panadol', correct: true},
+              
+                  { text : 'all of the above', correct: false }
+              
+                ]}{
+
+                  question: 'what sport did I dfo first?',
+                
+                  answers [
+                
+                    { text: 'hockey', correct: false },
+                
+                    { text: 'Gymnastics', correct: false },
+                
+                    { text : 'AFL', correct: false},
+                
+                    { text : 'Boxing', correct: false }
+                
+                  ]}
+  
